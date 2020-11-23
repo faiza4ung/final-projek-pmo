@@ -1,6 +1,16 @@
-# final_projek
+# Pesan Tiket Bioskop
 
-A new Flutter project.
+Projek ini dipersembahkan untuk Pak Toni Anwar selaku dosen Pemrograman Perangkat Berjalan, mengambil kasus pemesanan tiket bioskop
+
+## Sekilas
+Aplikasi ini dikembangkan menggunakan Flutter yang diharapkan bisa di-deploy baik ke platform Android maupun iOS, aplikasi ini memakan free-movie-API
+untuk data film dan Firebase, dan akan memiliki fitur melihat daftar film, detail film, pemesanan tiket, manajemen akun
+
+## Developer
+Projek ini dikembangkan oleh
+- Ungguh Faizaturrohman
+- Junistyan Ginka Monteverdi
+- Nurul Hidayah
 
 ## Getting Started
 
