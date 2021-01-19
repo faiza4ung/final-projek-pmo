@@ -1,4 +1,4 @@
-import 'package:final_projek/ui/detail_page.dart';
+import 'package:final_projek/wrapper.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: DetailPage(),
+      home: Wrapper(),
     );
   }
 }
